@@ -1,14 +1,14 @@
 {
     "name":"Sambhaji",
-    "Designation":"Pune",
-    "Location":"Pune",
-    "MoNo":"8411041938",
-    "Email":"100sambha@gmail.com",
-    "Address":{
-        "At":"Chavhanwadi",
-        "Post":"Wagholi",
-        "Tal":"Shevgaon",
-        "Dist":"Ahmednagar",
-        "PinCode":"414502"
+    "designation":"Pune",
+    "location":"Pune",
+    "mono":8411041938,
+    "email":"100sambha@gmail.com",
+    "address":{
+        "at":"Chavhanwadi",
+        "post":"Wagholi",
+        "tal":"Shevgaon",
+        "dist":"Ahmednagar",
+        "pincode":414502
     }
 }
